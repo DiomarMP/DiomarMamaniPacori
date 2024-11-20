@@ -50,7 +50,7 @@
 
         .container {
             max-width: 1200px;
-            margin: 18px;
+            margin: 15px;
             padding: 20px;
             background: rgba(255, 255, 255, 0.336);
             position: relative;
