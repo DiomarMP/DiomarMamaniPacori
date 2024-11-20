@@ -121,7 +121,7 @@
         <div class="car"></div>
     </div>
     <header>
-        <a href="https://ucsp.edu.pe/" target="_blank" ><img style="margin: 20px;" src="img/logo_ucsp.png" height="45" width="100 " alt="Logo UCSP"></a>
+        <a href="https://ucsp.edu.pe/" target="_blank" ><img style="margin: 20px;" src="https://cs.ucsp.edu.pe/img/logo-ucsp.png" height="45" width="100 " alt="Logo UCSP"></a>
         <h1 style="margin: 10px;">DIOMAR MAMANI PACORI</h1>
         <div class="navegador">
             <nav>
