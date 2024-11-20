@@ -174,7 +174,7 @@
         </section>
     </div>
     <footer>
-        <p>&copy; 2024 Juan Pérez. Todos los derechos reservados.</p>
+        <p>Diomar MP</p>
     </footer>
 </body>
 </html>
